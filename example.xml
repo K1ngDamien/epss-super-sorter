@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <cves>
+        <cve>
+            <cve_id>CVE-2017-0144</cve_id>
+        </cve>
+        <cve>
+            <cve_id>CVE-2017-5638</cve_id>
+        </cve>
+        <cve>
+            <cve_id>CVE-2018-8174</cve_id>
+        </cve>
+        <cve>
+            <cve_id>CVE-2020-1472</cve_id>
+        </cve>
+        <cve>
+            <cve_id>CVE-2014-0160</cve_id>
+        </cve>
+    </cves>
